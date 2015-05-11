@@ -1,5 +1,6 @@
 # Slick-MySql
-================
+=============
+
 MySQL Schema export for Scala and Slick.
 
 ### Motivations
