@@ -8,6 +8,14 @@ TypeSafe Slick is a fantastic Object-Relational Mapping (ORM) tool, and the upco
 own JDBC/MySQL export tool for export existing MySQL schemas (and generating Scala code!). However, the current 
 stable version, 2.1.x does not. So, until 3.0 is released in stable form, this project will fill that void.
 
+<a name="build-requirements"></a>
+### Build Requirements
+
+* [Java SDK 1.7] (http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html)
+* [Scala 2.11.6] (http://scala-lang.org/download/)
+* [SBT 0.13+] (http://www.scala-sbt.org/download.html)
+* [Commons-Helpers 0.1.0] (https://github.com/ldaniels528/commons-helpers)
+
 <a name="building-the-code"></a>
 ### Building the code
 
